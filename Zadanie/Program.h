@@ -16,7 +16,7 @@ int main()
 	Punkt pkt1("A",3,1);
 	pkt1.wczytaj();
 
-	Prostok¹t p1("Prostokat",0,0,6,4);
+	Prostok¹t p1("Prostokat",0,0,6,10);
 	p1.wczytaj();
 	
 	sedzia(pkt1, p1);
